@@ -92,6 +92,7 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [switchboard](Web/switchboard/README.md) | Web | K0NGR3SS |
 | [Comms Check](Welcome/comms-check/README.md) | Welcome | Varenik14 |
 | [Welcome Aboard](Welcome/welcome-aboard/README.md) | Welcome | Varenik14 |
+| [Silent Orbit](Network/silent-orbit/README.md) | Network | Varenik14 |
 
 The layout follows the category and challenge structure of the [CSCTF 2024 repository](https://github.com/ChronosPK/CSCTF-2024).
 
