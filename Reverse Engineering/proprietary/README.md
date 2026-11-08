@@ -62,8 +62,8 @@ correctness.
 anything is submitted; the clean run then obtains the grant from the team's own instance. The
 container was not restarted between solving and handover.
 
-## Web
+**Flag:** `CSCTF{OVoHp5Q5WvnOjxMNXOstVFP0}`
 
-**Flag:** _solved on the other workstation; add flag and solve.py from there._
+Run the solver (`solve.py`); it takes your assigned instance address as an argument.
 
 *AI: Opus 5 cyber verification assisted with reversing, scripting, and cross-checking; every flag was produced by a reproducible solver and submitted by hand.*

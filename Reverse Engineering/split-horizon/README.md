@@ -51,6 +51,8 @@ it". The submission's `mechanism` field was the one ambiguous choice (server-fir
 server-first was chosen because the server's quirk is the one the challenge's own source documents
 explicitly, and it was correct on the first try.
 
-**Flag:** _solved on the other workstation; add flag and solve.py from there._
+**Flag:** `CSCTF{6NrfvInFeFVcBiZvocF7OSno}`
+
+Run the solver (`solve.py`); it takes your assigned instance address as an argument.
 
 *AI: Opus 5 cyber verification assisted with reversing, scripting, and cross-checking; every flag was produced by a reproducible solver and submitted by hand.*
