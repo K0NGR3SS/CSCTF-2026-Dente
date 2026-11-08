@@ -38,6 +38,7 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [The Capability Ghost](Forencics/the-capability-ghost/README.md) | Forensics | Varenik14 |
 | [The Layer That Wouldn't Die](Forencics/the-layer-that-wouldnt-die/README.md) | Forensics | Varenik14 |
 | [Tone Burst](Forencics/tone-burst/README.md) | Forensics | Varenik14 |
+| [Command Calendar Reconciliation](Misc/command-calendar-reconciliation/README.md) | Misc | Varenik14 |
 | [golem](Misc/golem/README.md) | Misc | K0NGR3SS |
 | [lattice](Misc/lattice/README.md) | Misc | Varenik14 |
 | [Operation Dawn: The Cipher Lock](Misc/operation-dawn-cipher-lock/README.md) | Misc | kiriesh |
