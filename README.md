@@ -49,6 +49,43 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [Apogee](Web/apogee/README.md) | Web | Classified |
 | [Cutover](Web/cutover/README.md) | Web | Classified |
 | [Cyberboy](Web/cyberboy/README.md) | Web | Classified |
+| [Flotsam](Forencics/flotsam/README.md) | Forensics | Varenik14 |
+| [The Capability Ghost](Forencics/the-capability-ghost/README.md) | Forensics | Varenik14 |
+| [The Layer That Wouldn't Die](Forencics/the-layer-that-wouldnt-die/README.md) | Forensics | Varenik14 |
+| [Tone Burst](Forencics/tone-burst/README.md) | Forensics | Varenik14 |
+| [Telltale](Misc/telltale/README.md) | Misc | Varenik14 |
+| [Cloudflare Deanon: Find the Origin](OSINT/cloudflare-deanon-find-the-origin/README.md) | OSINT | Varenik14 |
+| [Command Authority](Reverse%20Engineering/command-authority/README.md) | Reverse engineering | Varenik14 |
+| [Uplink Denied](Reverse%20Engineering/uplink-denied/README.md) | Reverse engineering | Varenik14 |
+| [lattice](Misc/lattice/README.md) | Misc | Varenik14 |
+| [smuggler](Web/smuggler/README.md) | Web | Varenik14 |
+| [Interdiction Hold](Web/interdiction-hold/README.md) | Web | Varenik14 |
+| [Severed Link](Network/severed-link/README.md) | Network | Varenik14 |
+| [The Lock Box](Reverse%20Engineering/the-lock-box/README.md) | Reverse engineering | Varenik14 |
+| [Fence Shift](Reverse%20Engineering/fence-shift/README.md) | Reverse engineering | Varenik14 |
+| [Redline](Forencics/redline/README.md) | Forensics | Varenik14 |
+| [Last Buffer](Forencics/last-buffer/README.md) | Forensics | Varenik14 |
+| [VaultKeeper](Mobile/vaultkeeper/README.md) | Mobile | Varenik14 |
+| [Welcome Aboard](Welcome/welcome-aboard/README.md) | Welcome | Varenik14 |
+| [Comms Check](Welcome/comms-check/README.md) | Welcome | Varenik14 |
+| [Operation Dawn: The Access Log](Web/operation-dawn-access-log/README.md) | Web | Varenik14 |
+| [Operation Dawn: The Shared Model](Misc/operation-dawn-shared-model/README.md) | Misc | Varenik14 |
+| [Operation Dawn: Watch List Audit](Misc/operation-dawn-watch-list-audit/README.md) | Misc | Varenik14 |
+| [Operation Dawn: The Burnt Server](Forencics/operation-dawn-burnt-server/README.md) | Forensics | Varenik14 |
+| [Briefing for One](Forencics/briefing-for-one/README.md) | Forensics | Varenik14 |
+| [Dark Anchorage Reconciliation](Network/dark-anchorage-reconciliation/README.md) | Network | Varenik14 |
+| [Night Clerk](Forencics/night-clerk/README.md) | Forensics | Varenik14 |
+| [Operation Dawn: Relay Snapshot](Forencics/operation-dawn-relay-snapshot/README.md) | Forensics | Varenik14 |
+| [Operation Dawn: The Reconnaissance Plate](Misc/operation-dawn-the-reconnaissance-plate/README.md) | Misc | Varenik14 |
+| [Operation Dawn: The Relay Tap](Forencics/operation-dawn-the-relay-tap/README.md) | Forensics | Varenik14 |
+| [Signal Reconciliation](Forencics/signal-reconciliation/README.md) | Forensics | Varenik14 |
+| [Ghost in the Historian](Forencics/ghost-in-the-historian/README.md) | Forensics | Varenik14 |
+| [Interlock Witness](Forencics/interlock-witness/README.md) | Forensics | Varenik14 |
+| [Code Red Freight](Forencics/code-red-freight/README.md) | Forensics | Varenik14 |
+| [CAPTCHA the Water Plant](Forencics/captcha-the-water-plant/README.md) | Forensics | Varenik14 |
+| [Radar Silence](Network/radar-silence/README.md) | Network | Varenik14 |
+| [Harvest](OSINT/harvest/README.md) | OSINT | Varenik14 |
+| [Dawn Array](Forencics/dawn-array/README.md) | Forensics | Varenik14 |
 
 The layout follows the category and challenge structure of the [CSCTF 2024 repository](https://github.com/ChronosPK/CSCTF-2024).
 
