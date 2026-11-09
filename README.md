@@ -42,10 +42,12 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [golem](Misc/golem/README.md) | Misc | K0NGR3SS |
 | [lattice](Misc/lattice/README.md) | Misc | Varenik14 |
 | [Operation Dawn: The Cipher Lock](Misc/operation-dawn-cipher-lock/README.md) | Misc | kiriesh |
+| [Operation Dawn: The Fire-Control Terminal](Misc/operation-dawn-the-fire-control-terminal/README.md) | Misc | Varenik14 |
 | [Operation Dawn: The Reconnaissance Plate](Misc/operation-dawn-the-reconnaissance-plate/README.md) | Misc | Varenik14 |
 | [Operation Dawn: The Shared Model](Misc/operation-dawn-shared-model/README.md) | Misc | Varenik14 |
 | [Operation Dawn: Watch List Audit](Misc/operation-dawn-watch-list-audit/README.md) | Misc | Varenik14 |
 | [Telltale](Misc/telltale/README.md) | Misc | Varenik14 |
+| [ultralight](Misc/ultralight/README.md) | Misc | Varenik14 |
 | [Operation Dawn: The Sentry's Model](ML/operation-dawn-sentrys-model/README.md) | ML | kiriesh |
 | [VaultKeeper](Mobile/vaultkeeper/README.md) | Mobile | Varenik14 |
 | [Dark Anchorage Reconciliation](Network/dark-anchorage-reconciliation/README.md) | Network | Varenik14 |
@@ -62,6 +64,7 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [Onion Deanon 1: Read the Certificate](OSINT/onion-deanon-1-read-the-certificate/README.md) | OSINT | K0NGR3SS |
 | [Onion Deanon 2: Find the Back Office](OSINT/onion-deanon-2-find-back-office/README.md) | OSINT | K0NGR3SS |
 | [Onion Deanon 2: Find the Origin](OSINT/onion-deanon-2-find-origin/README.md) | OSINT | K0NGR3SS |
+| [Onion Deanon 2: Hash the Favicon Again](OSINT/onion-deanon-2-hash-the-favicon-again/README.md) | OSINT | Varenik14 |
 | [Onion Deanon 2: Read the Favicon](OSINT/onion-deanon-2-read-the-favicon/README.md) | OSINT | K0NGR3SS |
 | [echo_chamber](PWN/echo_chamber/README.md) | Pwn | Classified |
 | [forge](PWN/forge/README.md) | Pwn | Classified |
