@@ -493,3 +493,10 @@ Local reproduction uses `exploit_local.py` with the local harness and `--cmd 'ca
 - The libc offsets are exact for GLIBC 2.39-0ubuntu8.9. A different libc build changes `_IO_2_1_stdin_`, `_IO_wfile_jumps`, `system`, and the arena-bin offset; the heap choreography would also need re-measurement.
 - The local marker `CSCTF{lanec_local_marker_1234}` is a test string, not the challenge flag. Only `9164_flag.txt` is the live result.
 - The flag is per-team and was valid on the assigned instance; do not replay it against a different team's container.
+
+## Files
+
+The full evidence pack for this challenge — solve scripts, the derivation audit, lane reports,
+the accepted flag record and the handouts used for local reproduction — is in
+[`files/phantom-device/`](files/phantom-device/), with the submission record in
+[`FLAG.md`](files/phantom-device/FLAG.md).

@@ -87,13 +87,13 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [Carrier Shadow](Rev/carrier-shadow/README.md) | Rev | kiriesh |
 | [Command Authority](Reverse%20Engineering/command-authority/README.md) | Reverse engineering | Varenik14 |
 | [Fence Shift](Reverse%20Engineering/fence-shift/README.md) | Reverse engineering | Varenik14 |
-| [Ghost Bank](Reverse Engineering/ghost-bank/README.md) | Reverse engineering | Classified |
-| [Ground Lock](Reverse Engineering/ground-lock/README.md) | Reverse engineering | Classified |
-| [HELIOS-RTU](Reverse Engineering/helios-rtu/README.md) | Reverse engineering | Classified |
-| [Operation Dawn: Radio Recovery](Reverse Engineering/operation-dawn-radio-recovery/README.md) | Reverse engineering | Classified |
-| [PoshTerm](Reverse Engineering/poshterm/README.md) | Reverse engineering | Classified |
-| [proprietary](Reverse Engineering/proprietary/README.md) | Reverse engineering | Classified |
-| [Split Horizon](Reverse Engineering/split-horizon/README.md) | Reverse engineering | Classified |
+| [Ghost Bank](Reverse%20Engineering/ghost-bank/README.md) | Reverse engineering | Classified |
+| [Ground Lock](Reverse%20Engineering/ground-lock/README.md) | Reverse engineering | Classified |
+| [HELIOS-RTU](Reverse%20Engineering/helios-rtu/README.md) | Reverse engineering | Classified |
+| [Operation Dawn: Radio Recovery](Reverse%20Engineering/operation-dawn-radio-recovery/README.md) | Reverse engineering | Classified |
+| [PoshTerm](Reverse%20Engineering/poshterm/README.md) | Reverse engineering | Classified |
+| [proprietary](Reverse%20Engineering/proprietary/README.md) | Reverse engineering | Classified |
+| [Split Horizon](Reverse%20Engineering/split-horizon/README.md) | Reverse engineering | Classified |
 | [The Lock Box](Reverse%20Engineering/the-lock-box/README.md) | Reverse engineering | Varenik14 |
 | [Uplink Denied](Reverse%20Engineering/uplink-denied/README.md) | Reverse engineering | Varenik14 |
 | [Apogee](Web/apogee/README.md) | Web | Classified |
