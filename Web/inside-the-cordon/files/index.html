@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Vicinity Wire | Station</title><link rel="icon" href="/favicon.svg" type="image/svg+xml"><link rel="stylesheet" href="/style.css"><script defer src="/app.js"></script></head>
+<body>
+<main>
+  <header><div class="brand">
+    <svg class="mark" viewBox="0 0 48 48" role="img" aria-label="Vicinity Wire emblem"><circle cx="24" cy="24" r="21" fill="#0c2330" stroke="#2ebf9b" stroke-width="2"/><circle cx="24" cy="24" r="13" fill="none" stroke="#88dac8" stroke-width="1.3" opacity="0.6"/><circle cx="24" cy="24" r="6" fill="none" stroke="#88dac8" stroke-width="1" opacity="0.4"/><path d="M24 24 L40 14" stroke="#2ebf9b" stroke-width="2" stroke-linecap="round"/><circle cx="24" cy="24" r="2.4" fill="#f7c76d"/><circle cx="11" cy="31" r="2.2" fill="#f7c76d"/></svg>
+    <div class="brand-text"><p class="eyebrow">Civil Continuity Directorate · Republic of Vardelune</p><h1>Vicinity Wire</h1><p>Recovered coordination station · Cordon Seven</p></div>
+  </div></header>
+  <section aria-labelledby="lock-title" id="lock"><h2 id="lock-title">Station locked</h2><p>Enter the six-digit operator PIN to activate this station.</p>
+    <form id="pin-form"><label for="pin">Operator PIN</label><input id="pin" name="pin" inputmode="numeric" pattern="[0-9]{6}" minlength="6" maxlength="6" autocomplete="off" required><button type="submit">Check PIN</button></form>
+    <p id="pin-status" role="status" aria-live="polite">No PIN checked.</p>
+  </section>
+  <section id="station" hidden aria-labelledby="station-title"><h2 id="station-title">Station active</h2>
+    <dl id="bootstrap"></dl><p id="channel-status" role="status" aria-live="polite">Channel not connected.</p>
+    <p id="position-status" role="status" aria-live="polite">No position report accepted.</p>
+    <p id="room-status" role="status" aria-live="polite">Room not joined.</p>
+    <div id="map" role="img" aria-label="Cordon map unavailable until station activation"></div>
+    <p class="fine">The seized station reports a synthetic outside position. No device location is used. Channel status and frame details are visible in the browser Network panel.</p>
+  </section>
+  <section aria-labelledby="session-title"><h2 id="session-title">Station session</h2><p id="session-status" role="status" aria-live="polite">Checking session…</p><p class="fine">The page refreshes the station session every five minutes while open. This does not extend the instance timer shown by the launcher. Reload if this session expires.</p></section>
+  <footer class="foot">
+    <span>Civil Continuity Directorate · Vicinity Wire operations · station desk ext. 2207</span>
+    <span class="mono">vicinity-wire 3.4.1 · node cordon-seven · UNCLASSIFIED // CCD INTERNAL</span>
+  </footer>
+</main>
+</body></html>

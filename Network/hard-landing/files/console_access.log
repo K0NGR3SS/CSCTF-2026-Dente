@@ -1,0 +1,8 @@
+2026-09-17T11:20:00Z event=LOGIN src=192.0.2.10 role=operator session=ops-131bc07f5023dcfd329e80cd result=issued
+2026-09-17T11:20:30Z event=COMMAND src=192.0.2.10 session=ops-131bc07f5023dcfd329e80cd command=STATUS result=accepted
+2026-09-17T11:22:00Z event=LOGIN src=192.0.2.11 role=administrator session=adm-2aca3785b702d3ef824b9cb8 result=issued
+2026-09-17T11:22:08Z event=COMMAND src=192.0.2.11 session=adm-2aca3785b702d3ef824b9cb8 command=STATUS result=accepted
+2026-09-17T11:23:00Z event=COMMAND src=192.0.2.14 session=adm-2aca3785b702d3ef824b9cb8 command=DISABLE_SAFETY_LINK result=accepted
+2026-09-17T11:23:06Z event=COMMAND src=192.0.2.14 session=adm-2aca3785b702d3ef824b9cb8 command=DIVERT_FROM_CORRIDOR result=accepted
+2026-09-17T11:23:12Z event=COMMAND src=192.0.2.14 session=adm-2aca3785b702d3ef824b9cb8 command=SUPPRESS_RECOVERY result=accepted
+2026-09-17T11:23:17Z event=AIRCRAFT_LINK_LOST src=192.0.2.20 aircraft=N17 result=recorded

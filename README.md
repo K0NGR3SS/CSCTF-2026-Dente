@@ -6,6 +6,19 @@
 
 Writeups for challenges the team solved. Each challenge has its own folder under its scoreboard category. Live service addresses were temporary instances; use a fresh assigned address when replaying a web or pwn solve.
 
+## Read first
+
+| Document | What it is |
+| --- | --- |
+| [OFFICIAL_WRITEUP.md](OFFICIAL_WRITEUP.md) | The submission, in the organizer template: team block, AI methodology, one card per solved challenge |
+| [QC_REPORT.md](QC_REPORT.md) | Coverage and redaction checks run against the final document |
+| [WRITEUPS_AUDIT.md](WRITEUPS_AUDIT.md) | Per-challenge coverage table and per-member counts |
+| [VELORA_NEAR_MISS.md](VELORA_NEAR_MISS.md) | Velora (9125): 29 of 30 layers, never solved — appendix, not a card |
+| [AWARDS/](AWARDS/) | Best Technical Writeup and Best AI-Assisted Methodology submissions |
+| [SUBMISSION_EMAIL.md](SUBMISSION_EMAIL.md) | The submission email |
+
+**Status:** 107 solves · 107 writeups · 0 missing · 6th of 1,580 · 29,127 pts. No live flags, credentials, tokens, cookies or instance URLs in this repository.
+
 | Challenge | Category | Writeup author |
 | --- | --- | --- |
 | [Countersign](Crypto/countersign/README.md) | Crypto | Classified |
@@ -97,6 +110,24 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [Comms Check](Welcome/comms-check/README.md) | Welcome | Varenik14 |
 | [Welcome Aboard](Welcome/welcome-aboard/README.md) | Welcome | Varenik14 |
 | [Silent Orbit](Network/silent-orbit/README.md) | Network | Varenik14 |
+| [Broadsheet Organizer](Web/broadsheet-organizer/README.md) | Web | mar |
+| [Cloudflare Deanon: Read the Platform](OSINT/cloudflare-deanon-read-the-platform/README.md) | OSINT | mar |
+| [Ghost Signal](Network/ghost-signal/README.md) | Network | mar |
+| [Hard Landing](Network/hard-landing/README.md) | Network | mar |
+| [Helioform Relay](Web/helioform-relay/README.md) | Web | mar |
+| [Inside the Cordon](Web/inside-the-cordon/README.md) | Web | mar |
+| [Interlock](Web/interlock/README.md) | Web | mar |
+| [Key Custody](Web/key-custody/README.md) | Web | mar |
+| [Operation Blackout](ICS/operation-blackout/README.md) | ICS | mar |
+| [Operation Dawn: The Command Seal](Web/operation-dawn-the-command-seal/README.md) | Web | mar |
+| [Operation Dawn: The Dispatch Console](Web/operation-dawn-the-dispatch-console/README.md) | Web | mar |
+| [Operation Silent Ward](Network/operation-silent-ward/README.md) | Network | mar |
+| [Phantom Device](PWN/phantom-device/README.md) | PWN | mar |
+| [Phantom Drift](Forencics/phantom-drift/README.md) | Forencics | mar |
+| [Silent Breaker](Forencics/silent-breaker/README.md) | Forencics | mar |
+| [Two-Key Turn](Web/two-key-turn/README.md) | Web | mar |
+| [Vesper Quay Board](Web/vesper-quay-board/README.md) | Web | mar |
+| [warden](Misc/warden/README.md) | Misc | mar |
 
 The layout follows the category and challenge structure of the [CSCTF 2024 repository](https://github.com/ChronosPK/CSCTF-2024).
 

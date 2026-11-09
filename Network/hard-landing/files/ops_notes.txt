@@ -1,0 +1,9 @@
+SENTINEL FLIGHT-SAFETY CONSOLE — INCIDENT HANDOFF
+
+Incident window: 2026-09-17 11:20–11:24 UTC
+Console: 192.0.2.20 (console.sentinel.example)
+Administrator workstation: 192.0.2.11
+
+The console used HTTP without TLS. Command authentication is session-bound HMAC-SHA256 with a short server-time freshness window. New logins are disabled during lockdown, but the exposed administrator session has not yet been revoked.
+
+Determine how that session moved to the workstation at 192.0.2.14. Query unauthenticated `GET /api/status` on the live console for the documented safe recovery command and its request format.

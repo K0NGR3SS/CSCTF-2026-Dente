@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "employee_id": "VLK-2772-LAZ",
+      "name": "Corina Lazar",
+      "department": "Billing",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-5829245"
+    },
+    {
+      "employee_id": "VLK-8680-TOM",
+      "name": "Vlad Toma",
+      "department": "Finance",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-4805195"
+    },
+    {
+      "employee_id": "VLK-6414-RAD",
+      "name": "Cosmin Radulescu",
+      "department": "Finance",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-9458620"
+    },
+    {
+      "employee_id": "VLK-7972-VOI",
+      "name": "Ilinca Voicu",
+      "department": "Marketing",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-5110708"
+    },
+    {
+      "employee_id": "VLK-1152-LAZ",
+      "name": "Bogdan Lazar",
+      "department": "Legal",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-1976785"
+    },
+    {
+      "employee_id": "VLK-9924-LAZ",
+      "name": "Teodora Lazar",
+      "department": "OT Field Engineering",
+      "ot_vpn_access": true,
+      "msisdn": "+882-16-7547546"
+    },
+    {
+      "employee_id": "VLK-6964-NIS",
+      "name": "Corina Nistor",
+      "department": "Billing",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-9290375"
+    },
+    {
+      "employee_id": "VLK-6525-DOB",
+      "name": "Tudor Dobre",
+      "department": "Customer Care",
+      "ot_vpn_access": false,
+      "msisdn": "+882-16-5509185"
+    }
+  ]
+}

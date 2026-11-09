@@ -1,0 +1,44 @@
+<!doctype html><html lang='en'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'><title>Ash Army Relay &mdash; Order Intake</title><link rel='icon' href='/favicon.svg' type='image/svg+xml'><style>
+:root{
+ --canvas:#0b0d10;--s1:#121519;--s2:#171b20;--line:#242a31;--line2:#323a43;
+ --ink:#e8eaed;--muted:#a6adb6;--subtle:#9aa3ad;--faint:#8a93a0;
+ --accent:#e0a54a;--accent2:#c6892f;--warn:#d9a441;--crit:#e5603f;
+ --ui:Inter,-apple-system,system-ui,"Segoe UI",Roboto,sans-serif;
+ --mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace}
+*{box-sizing:border-box}
+body{margin:0;background:var(--canvas);color:var(--ink);font:14px/1.5 var(--ui);-webkit-font-smoothing:antialiased}
+a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
+.classif{background:var(--s2);border-bottom:1px solid var(--line);color:var(--subtle);
+ font:600 11px/1.3 var(--ui);letter-spacing:.12em;text-transform:uppercase;text-align:center;padding:4px 0}
+.classif .d{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--warn);vertical-align:1px;margin-right:6px}
+.classif.b{border-bottom:0;border-top:1px solid var(--line)}
+.topbar{display:flex;align-items:center;gap:10px;height:52px;padding:0 24px;background:var(--s1);border-bottom:1px solid var(--line)}
+.brand{display:flex;align-items:center;gap:9px;font-weight:600;font-size:14px;color:var(--ink)}
+.brand .sys{color:var(--subtle);font-weight:500}
+.spacer{flex:1}
+.tag{color:var(--subtle);font-size:12px;letter-spacing:.03em}.tag b{color:var(--muted);font-weight:600}
+.wrap{max-width:900px;margin:0 auto;padding:24px 24px 8px}
+.crumb{color:var(--subtle);font-size:13px;margin:0 0 3px}
+h1{font-size:22px;font-weight:600;line-height:1.25;margin:0 0 4px}
+.sub{color:var(--muted);font-size:13px;margin:0 0 20px;padding-bottom:14px;border-bottom:1px solid var(--line)}
+.panel{background:var(--s1);border:1px solid var(--line);border-radius:8px;padding:16px;margin:0 0 16px}
+.panel h2{font:600 12px/1.3 var(--ui);letter-spacing:.3px;text-transform:uppercase;color:var(--subtle);margin:0 0 10px}
+.mut{color:var(--subtle)}
+pre{background:var(--canvas);border:1px solid var(--line);border-radius:6px;padding:12px;margin:10px 0 0;
+ font:13px/1.5 var(--mono);color:var(--muted);overflow-x:auto;white-space:pre-wrap;word-break:break-word}
+code{font-family:var(--mono);color:var(--ink);background:var(--s2);border-radius:4px;padding:1px 5px;font-size:12.5px}
+.note{display:flex;gap:10px;align-items:flex-start;color:var(--muted);font-size:13px}
+.note .d{width:8px;height:8px;border-radius:50%;background:var(--warn);margin-top:5px;flex:none}
+table{width:100%;border-collapse:collapse;margin-top:6px;font-size:13px}
+th{text-align:left;font:600 12px/1.3 var(--ui);letter-spacing:.3px;text-transform:uppercase;color:var(--subtle);padding:8px 12px;border-bottom:1px solid var(--line2)}
+td{padding:8px 12px;border-bottom:1px solid var(--line);color:var(--muted);font-family:var(--mono);font-size:12.5px}
+label{display:block;margin:12px 0 4px;color:var(--subtle);font-size:13px;font-weight:500}
+input,textarea,select{width:100%;background:var(--canvas);color:var(--ink);border:1px solid var(--line2);border-radius:6px;padding:7px 10px;font:13px/1.5 var(--mono)}
+input:focus,textarea:focus,select:focus{outline:2px solid var(--accent);outline-offset:0;border-color:var(--accent)}
+button{margin-top:14px;background:var(--accent);color:#1a1205;border:0;border-radius:6px;padding:8px 15px;font:600 13px var(--ui);cursor:pointer}
+button:hover{background:var(--accent2)}
+form{margin:0}
+.foot{max-width:900px;margin:0 auto;padding:16px 24px 28px;color:var(--faint);font-size:12px;
+ display:flex;gap:18px;flex-wrap:wrap;align-items:center;border-top:1px solid var(--line)}
+.foot .mono{font-family:var(--mono)}
+</style></head><body><div class='classif'><span class='d'></span>Restricted &middot; Ash Army Signals &middot; Operation Dawn</div><div class='topbar'><span class='brand'><svg width='18' height='18' viewBox='0 0 32 32' aria-hidden='true' style='vertical-align:-3px;margin-right:9px'><circle cx='16' cy='16' r='12.5' fill='none' stroke='#ffb000' stroke-width='2'/><circle cx='16' cy='16' r='9' fill='none' stroke='#ffb000' stroke-width='1'/><path d='M16 7 18.2 13.8 25 16 18.2 18.2 16 25 13.8 18.2 7 16 13.8 13.8Z' fill='#ffb000'/></svg>Ash Army<span class='sys'>Order Relay</span></span><span class='spacer'></span><span class='tag'>Operation Dawn &middot; <b>relay node 02</b></span></div><div class='wrap'><div class='crumb'>Relay / Order intake</div><h1>Order intake node</h1><div class='sub'>Ash Army command relay &middot; service root <code>/opt/relay</code></div><div class='panel'><h2>File a field report</h2><div class='mut'>Submit an XML report to <code>POST /report</code>. The duty officer logs your <code>&lt;summary&gt;</code>.</div><pre>&lt;report&gt;&lt;summary&gt;contact east of the weir&lt;/summary&gt;&lt;/report&gt;</pre></div><div class='panel'><h2>Submit an order</h2><div class='mut'>Submit an XML order to <code>POST /order</code>. The relay only acts on an order that carries command's seal, and command never puts its standing order on the wire.</div><pre>&lt;relay&gt;&lt;order id="..."&gt;&lt;kind&gt;...&lt;/kind&gt;&lt;text&gt;...&lt;/text&gt;&lt;/order&gt;&lt;auth&gt;&lt;ref&gt;...&lt;/ref&gt;&lt;digest&gt;...&lt;/digest&gt;&lt;sig&gt;...&lt;/sig&gt;&lt;/auth&gt;&lt;/relay&gt;</pre></div><div class='panel'><h2>Order journal</h2><div class='mut'>Last order written to the relay outbox.</div><pre>/opt/relay/outbox/last-order.txt</pre></div><div class='panel'><div class='note'><span class='d'></span><span>A standing order under command's seal has not crossed this node tonight.</span></div></div></div><div class='foot'><span class='mono'>AshRelay-Order 2.3.1</span><span>build 7f3c9a2</span><span>Signals duty desk &middot; ext 2140</span><span class='spacer'></span><span>&copy; Ash Army Signals Directorate</span></div><div class='classif b'>Signed orders only &middot; the duty officer verifies the command seal</div></body></html>
