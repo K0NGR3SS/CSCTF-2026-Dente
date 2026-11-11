@@ -16,7 +16,7 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | [WRITEUPS_AUDIT.md](WRITEUPS_AUDIT.md) | Per-challenge coverage table and per-member counts |
 | [VELORA_NEAR_MISS.md](VELORA_NEAR_MISS.md) | Velora (9125): 29 of 30 layers, never solved — appendix, not a card |
 | [AWARDS/](AWARDS/) | Best Technical Writeup and Best AI-Assisted Methodology submissions |
-| [SUBMISSION_EMAIL.md](SUBMISSION_EMAIL.md) | The submission email |
+
 
 **Status:** 107 solves · 107 writeups · 0 missing · 6th of 1,580 · 29,127 pts. No live flags, credentials, tokens, cookies or instance URLs in this repository.
 
