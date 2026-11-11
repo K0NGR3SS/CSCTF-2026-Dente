@@ -11,6 +11,7 @@ Writeups for challenges the team solved. Each challenge has its own folder under
 | Document | What it is |
 | --- | --- |
 | [OFFICIAL_WRITEUP.md](OFFICIAL_WRITEUP.md) | The submission, in the organizer template: team block, AI methodology, one card per solved challenge |
+| [WORKFLOW.md](WORKFLOW.md) | How the work was run: lanes, verification gate, what was rejected |
 | [QC_REPORT.md](QC_REPORT.md) | Coverage and redaction checks run against the final document |
 | [WRITEUPS_AUDIT.md](WRITEUPS_AUDIT.md) | Per-challenge coverage table and per-member counts |
 | [VELORA_NEAR_MISS.md](VELORA_NEAR_MISS.md) | Velora (9125): 29 of 30 layers, never solved — appendix, not a card |
